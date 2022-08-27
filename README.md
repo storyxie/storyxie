@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
 </head>
 <body>
 this is my page!
-<th>姓名</th><th>学号</th>
+  <th>姓名</th></br>
+  <th>学号</th></br>
 <td>jokeriu</td>
 </body>
 </html>
